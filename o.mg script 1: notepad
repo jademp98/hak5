@@ -7,5 +7,5 @@ DELAY 100
 STRING notepad.exe
 ENTER
 DELAY 1000
-STRING You have been hacked
+STRING You have been hacked by ZIROCOOL
 
